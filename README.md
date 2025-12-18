@@ -4,3 +4,6 @@ Fundamentals of Data Science
 # ABOUT ME
 <img width="1920" height="1080" alt="Sat, July 27" src="https://github.com/user-attachments/assets/a2262af6-5893-4c8c-aaac-7ebd2f7d0ca7" />
 
+# CLASS EXPECTATIONS
+![In the Fundamentals of Data Science class, I am expected to attend classes regularly, come prepared, and participate actively in discussions and activities  I will practice coding, complete assign (3)](https://github.com/user-attachments/assets/ab529165-1a58-479b-bc95-c936e555e411)
+
